@@ -1,0 +1,19 @@
+JD for PLC Engineer
+
+Position - Electrical Design Engineer 
+Experience – 2-7 y
+Job Location - PUNE
+Qualification - Diploma/B.E. in Electrical and Electronics/Electronics and Communication/Mechatronics
+
+
+• Hardware - PLC: Simatic S7- Series, Mitsubishi Fx Series & Q series, Delta DVP, ABB
+• SCADA/HMI software: Simatic WinCC Explorer, WinCC RT ADV, WinCC Professional, Exor – Jmobile Studio, Proface – GP-Pro Ex.
+• PLC Software: TIA Portal, Simatic Manager, Micro win for S7-200, Mitsubishi Gx works 2 & 3, Delta ISP Soft.
+• Communication Networks: MPI, Ethernet, Modbus TCP/IP, Modbus RTU, RS232.Profinet
+1. Experience in the below activities would add an advantage
+• Barcode Readers, Printers & RFID Devices.
+• Commissioning of process plants and special purpose machines (SPM) using PLC, drives, HMI, and SCADA.
+• Testing and commissioning of MCC and PLC control panels.
+• Maintenance and troubleshooting of automation systems and electrical equipment.
+• Ladder Diagram (LD), Function Block Diagram (FBD), Statement List (STL), Structured Control Language (SCL).
+• VASS6 Certification

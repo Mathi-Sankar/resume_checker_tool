@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container-fluid">
+  <div class="container" style="margin-left:150px; ">
+    <div class="row pt-5">
+      <div class="col-4 mt-5 offset-3">
+        <form method="post" action="{% url 'addresume' %}">
+            {% csrf_token %}
+            <div class="mb-3 text-center">
+            {% if messages %} {% for message in messages %}
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+              {{ message}}
+              <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            {% endfor %} {% endif %}
+            <h4>Add resume</h4>
+            </div>
+            <div class="mb-3">
+                <label class="form-label"> resume </label>
+                <input type="file"  name="resume" class="form-control">
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-primary"> submit </button>
+            </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
